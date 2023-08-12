@@ -1,3 +1,7 @@
 Mateo Builes Duque
 19 años
 Aprender Java y trabajo colaborativo
+
+Porque ahora la carpeta no está vacía
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque puede haber problemas con la colisión de información provocando conflictos con los cambios deseados
